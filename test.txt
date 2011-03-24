@@ -1,4 +1,4 @@
 i need to see if I do a checkout on a specific commit hash, 
 and then later do a pull, does it pull the most current or keep my hash intact.
 
-INITIAL COMMIT
+COMMIT TWO
